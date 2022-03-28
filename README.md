@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @xavierina
-- 👀 I’m interested in Data Science and Data Analyst
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Data Science
 - 📫 How to reach me 9912367616, xavierina12@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 ![](https://github.com/xavierina12/xavierina12/blob/main/welcom%20to%20my%20profile.gif)
-![](https://github.com/xavierina12/xavierina12/blob/main/Graphs.gif)
+![](https://github.com/xavierina12/xavierina12/blob/main/Graphs1.gif)
 
 ## About Me
 - Hi, I’m Xavierina

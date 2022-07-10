@@ -1,10 +1,10 @@
 
 ## About Me
 - 👋 Hi, I’m Xavierina
-- 👀 I’m interested in Data Science
+- I’m interested in Data Science
 
 ## Technical Skills
-- :relaxed: Skills: Data Anaysis in Python, R, SAS, Excel
+- Data Anaysis in Python, R, SAS, Excel
 - Machine Learning
 - Python, R, SAS, Excel, SQL, HTML
 

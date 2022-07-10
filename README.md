@@ -1,4 +1,4 @@
-- ![](https://github.com/xavierina12/xavierina12/blob/main/xavierina12-2021.stl)
+![](https://github.com/xavierina12/xavierina12/blob/main/xavierina12-2021.stl)
 
 👋 Hi, I’m Xavierina
 - 👀 I’m interested in Data Science

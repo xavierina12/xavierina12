@@ -1,4 +1,4 @@
-- (![](https://skyline.github.com/xavierina12/2021))
+- ![](https://skyline.github.com/xavierina12/2021)
 
 👋 Hi, I’m Xavierina
 - 👀 I’m interested in Data Science

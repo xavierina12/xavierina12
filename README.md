@@ -1,9 +1,10 @@
 
-<div class="row post-image-bg" markdown="0" >
-<video width="99%" height="540" autoplay loop muted markdown="0">
-<source src="https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4" markdown="0" >
-</video>
-</div>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" >
+    <source src="https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4" type="video/mp4">
+  </video>
+</figure>
+
 
 
 <! https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4 -->

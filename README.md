@@ -9,6 +9,6 @@
 - Python, R, SAS, Excel, SQL, HTML
 
 ## Contact Details
-- Linkedin: https://www.linkedin.com/in/xavierina-arokia/
+- https://www.linkedin.com/in/xavierina-arokia/
 - :e-mail: xavierina12@gmail.com
 - :calling: +91 9912367616

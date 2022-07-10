@@ -1,10 +1,9 @@
 
 
 <figure class="video_container">
-<video controls="true" allowfullscreen="true" >
-<source src="https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4" type="video/mp4">
-</video>
+  <iframe src="https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 
 
 

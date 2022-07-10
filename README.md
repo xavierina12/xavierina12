@@ -8,6 +8,9 @@
 - Machine Learning
 - Python, R, SAS, Excel, SQL, HTML
 
+## Projects
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects"> Data Analysis Projects </a>
+
 ## Contact Details
 - https://www.linkedin.com/in/xavierina-arokia/
 - :e-mail: xavierina12@gmail.com

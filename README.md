@@ -15,11 +15,6 @@
 - <a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"> Machine Learning Project</a>
 - <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects"> Minor Projects </a>
 
-
-
-![](https://github.com/xavierina12/xavierina12/blob/main/Gif.gif)
-
-
 ## Contact Details
 - https://www.linkedin.com/in/xavierina-arokia/
 - :e-mail: xavierina12@gmail.com

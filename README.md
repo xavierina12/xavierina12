@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @xavierina
 - 👀 I’m interested in Data Science
+-Skills: Data Anaysis in Python, R, SAS, Excel; Machine Learning
 - Linkedin: https://www.linkedin.com/in/xavierina-arokia/
 - 📫 How to reach me 9912367616, xavierina12@gmail.com
 

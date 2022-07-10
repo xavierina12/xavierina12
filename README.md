@@ -9,8 +9,8 @@
 - Python, R, SAS, Excel, SQL, HTML
 
 ## Projects
-<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects"> Data Analysis Projects </a>
-<a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"> Machine Learning Project </a>
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects"> Data Analysis Projects,  </a>
+<a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"> Machine Learning Project,  </a>
 <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects"> Minor Projects </a>
 
 ## Contact Details

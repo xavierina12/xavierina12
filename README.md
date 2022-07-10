@@ -4,7 +4,9 @@
 - 👀 I’m interested in Data Science
 
 ## Technical Skills
-- :relaxed: Skills: Data Anaysis in Python, R, SAS, Excel; Machine Learning
+- :relaxed: Skills: Data Anaysis in Python, R, SAS, Excel
+- Machine Learning
+- Python, R, SAS, Excel, SQL, HTML
 
 ## Contact Details
 - Linkedin: https://www.linkedin.com/in/xavierina-arokia/

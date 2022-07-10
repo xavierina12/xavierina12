@@ -1,7 +1,7 @@
 
 
-![](https://github.com/xavierina12/xavierina12/blob/main/welcome1.gif)
-![](https://github.com/xavierina12/xavierina12/blob/main/graph2.gif)
+![](https://github.com/xavierina12/xavierina12/blob/main/welcome.gif)
+![](https://github.com/xavierina12/xavierina12/blob/main/graph.gif)
 
 # About Me
 - Hi, I’m Xavierina

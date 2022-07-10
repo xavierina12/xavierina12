@@ -1,6 +1,6 @@
 
-<video>
-  <source src="https://user-images.githubusercontent.com/98824047/178144928-65faaf70-2d51-4aa1-918b-bf55076bfdd4.mp4" type="video/mp4">
+<video width="400" height="200">
+<source src="https://user-images.githubusercontent.com/98824047/178144928-65faaf70-2d51-4aa1-918b-bf55076bfdd4.mp4" type="video/mp4">
 </video>
 
 ## About Me

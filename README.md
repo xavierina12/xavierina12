@@ -1,10 +1,5 @@
 
-
-https://user-images.githubusercontent.com/98824047/178150575-99616eae-172b-4adc-950f-9025368b5eda.mp4
-
-
-
-
+![](https://github.com/xavierina12/xavierina12/blob/main/Graphs.gif)
 
 ## About Me
 - Hi, I’m Xavierina

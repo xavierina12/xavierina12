@@ -1,7 +1,7 @@
 ![](https://github.com/xavierina12/xavierina12/blob/main/welcom%20to%20my%20profile.gif)
 ![](https://github.com/xavierina12/xavierina12/blob/main/Graphs.gif)
 
-## About Me
+# About Me
 - Hi, I’m Xavierina
 - I’m interested in Data Science
 

@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I’m Xavierina
+- Hi, I’m Xavierina
 - I’m interested in Data Science
 
 ## Technical Skills

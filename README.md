@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @xavierina
+- 👋 Hi, I’m Xavierina
 - 👀 I’m interested in Data Science
 - :relaxed: Skills: Data Anaysis in Python, R, SAS, Excel; Machine Learning
 - Linkedin: https://www.linkedin.com/in/xavierina-arokia/
-- 📫 How to reach me 9912367616, xavierina12@gmail.com
+- :e-mail: xavierina12@gmail.com
+- :calling: +91 9912367616
 
 <!---
 xavierina12/xavierina12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

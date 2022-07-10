@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Xavierina
+- (![](https://skyline.github.com/xavierina12/2021))
+
+👋 Hi, I’m Xavierina
 - 👀 I’m interested in Data Science
 - :relaxed: Skills: Data Anaysis in Python, R, SAS, Excel; Machine Learning
 - Linkedin: https://www.linkedin.com/in/xavierina-arokia/

@@ -1,6 +1,14 @@
 
 https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4 
 
+
+
+
+
+https://user-images.githubusercontent.com/98824047/178149095-8768c73e-70ae-49f5-b42f-c2b50f5a85cb.mp4
+
+
+
 ## About Me
 - Hi, I’m Xavierina
 - I’m interested in Data Science

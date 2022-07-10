@@ -1,4 +1,4 @@
-
+![](https://github.com/xavierina12/xavierina12/blob/main/welcome.gif)
 ![](https://github.com/xavierina12/xavierina12/blob/main/Graphs.gif)
 
 ## About Me

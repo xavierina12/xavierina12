@@ -1,5 +1,5 @@
-<div class="row post-image-bg" markdown="1">
-    <video width="99%" height="540" autoplay loop muted markdown="1">
+<div class="row post-image-bg" >
+    <video width="99%" height="540" autoplay loop>
         <source src="https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4" markdown="1" >
         <source src="https://github.com/xavierina12/xavierina12/blob/main/GITHUB%20PROFILE.mp4" markdown="1">
     </video>

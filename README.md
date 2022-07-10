@@ -1,3 +1,20 @@
+.iframe_container {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 - this is responsive by adjusting the hight according to the width! */
+	padding-top: 25px;
+	height: 0;
+}
+
+.iframe_container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
 
 <div class="iframe_container">
 <iframe src="https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4" frameborder="0" allowfullscreen="allowfullscreen">  </iframe>

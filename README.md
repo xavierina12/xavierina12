@@ -1,5 +1,5 @@
-<div >
-<video width="99%" height="540" autoplay loop>
+<div class="row post-image-bg" markdown="1" >
+<video width="99%" height="540" autoplay loop muted markdown="1">
 <source src="https://user-images.githubusercontent.com/98824047/178147154-2a362839-6092-4164-9261-67bb8c8aa2fb.mp4" markdown="1" >
 </video>
 </div>

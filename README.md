@@ -1,5 +1,4 @@
 
-![xavierina](https://user-images.githubusercontent.com/98824047/179238847-dc9b80a4-82d0-416a-b1b4-75f6db9f0db0.gif)
 # About Me
 - Hi, I’m Xavierina
 - I’m interested in Data Science

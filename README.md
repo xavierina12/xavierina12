@@ -1,5 +1,3 @@
-![gif](https://user-images.githubusercontent.com/98824047/179364510-c0549ebc-f918-431e-9467-a21d22d4a873.gif)
-
 
 # About Me
 - Hi, I’m Xavierina
